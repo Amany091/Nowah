@@ -1,0 +1,630 @@
+{
+  "HomePage":{
+    "title": "hello",
+    "header": {
+      "badge": "Your trusted partner in digital solutions",
+      "title": "We provide integrated software solutions to support your business growth and help you excel",
+      "description": "From idea to execution, we accompany you with comprehensive software services ensuring quality, innovation, and continuous support.",
+      "buttons": {
+      "services": "Discover our services",
+      "more": "Learn more"
+      }
+    },
+
+    "whyUs": {
+      "badge": "Why Us",
+      "description": "In a rapidly changing world, we believe every idea deserves to become a digital product that leaves a real impact. We accompany you at every step of your journey, from shaping the vision and turning it into a prototype, to developing a testable MVP, and finally building a complete version that meets your business needs and gives you a competitive edge. We provide you with a specialized team combining technical expertise and creativity, ensuring your digital products are not just tools, but innovative practical solutions that enhance your digital presence, support your growth, and open new horizons in the market.",
+      "services": {
+        "01": "We help you launch digital products and turn your ideas into innovative solutions that make a real impact in the market.",
+        "02": "We support the growth of your business and help you scale with confidence through innovative and flexible software solutions.",
+        "03": "We lead you toward digital transformation and help your organization modernize and evolve to keep up with the future.",
+        "04": "Innovation begins with your vision and transforms into powerful digital solutions that shape the future."
+      },
+      "imageCaption": "With our technical expertise and forward-looking vision, we help you build powerful products, accelerate your growth, and adopt innovation as a core part of your success."
+    },
+
+    "services": {
+      "badge": "Our Services",
+      "title": "Software solutions that support your growth",
+      "description": "We offer a comprehensive range of technical services that help you launch, expand, and digitally transform, ensuring innovation and quality at every stage of your journey.",
+      "gallery": {
+        "serviceSupport": {
+          "label":  "Technical Support",
+          "description": "We provide continuous technical support to ensure your systems remain stable and perform efficiently, with quick response to any technical issues and regular updates to maintain the security and smooth operation of your digital platforms."
+        },
+        "mobileDevelopment": {
+          "hero": "Mobile App Development",
+          "label": "Mobile App Development",
+          "description": "We develop smart applications for Android and iOS with fast performance and exceptional user experience, ensuring you reach your audience anytime and anywhere.",
+            "steps": [
+            {
+              "title": "1. App Strategy",
+              "description": "We always start by understanding your business goals and target audience, then analyze competitors to define the core features of the app. We build a clear strategy that outlines development phases, technologies, and growth plans to ensure a strong product that helps you reach your customers effectively."
+            },
+            {
+              "title": "2. UX/UI Design",
+              "description": "We focus on creating a smooth and intuitive user experience with modern and attractive interfaces. By analyzing user behavior, we design interfaces that ensure easy navigation and interaction, increasing engagement and user retention."
+            },
+            {
+              "title": "3. Technical Development",
+              "description": "We develop applications using the latest technologies, whether Native or Hybrid, ensuring high performance and compatibility across devices. We write clean, scalable code to guarantee long-term sustainability."
+            },
+            {
+              "title": "4. System Integration",
+              "description": "We integrate the app with various systems such as payment gateways, CMS platforms, and third-party services to provide a seamless and complete user experience."
+            },
+            {
+              "title": "5. Testing & Quality",
+              "description": "Before launching, we conduct comprehensive testing to ensure the app is error-free and meets the highest standards of performance and security, delivering an optimal user experience."
+            },
+            {
+              "title": "6. Support & Updates",
+              "description": "We provide continuous support after launch, along with regular updates to add new features and improve performance, ensuring your app stays up-to-date and meets user needs over time."
+            }
+            ]
+        },
+        "ecommerceDevelopment": {
+          "label": "E-commerce Development",
+          "description": "We create integrated e-commerce stores equipped with secure payment systems and easy-to-use dashboards, enabling you to manage your products and increase sales efficiently."
+        },
+        "businessManagement": {
+          "label": "Business Management Systems",
+          "description": "We develop customized ERP and CRM systems to help you manage operations and clients efficiently, organize your data accurately to support your decisions and improve your team's performance."
+        },
+        "websiteDevelopment": {
+          "label": "Website Development",
+          "description": "We design and develop professional websites that combine high performance and attractive design, with a seamless user experience that helps you convert visitors into real customers."
+        },
+        "userInterfaceDesign": {
+          "label": "UI/UX Design",
+          "description": "We design thoughtful digital experiences focused on understanding the user, delivering modern interfaces that are easy to use, enhance engagement, and increase conversion rates."
+        }
+      }
+    },
+
+    "works": {
+      "badge": "Our Works",
+      "title": "Digital <exe>Works</exe> Reflecting Our Success",
+      "description": "Our works embody our expertise and passion for innovation, as we transform ideas into integrated digital projects that achieve tangible results and provide our partners with real value and a strong presence in the market.",
+      "tabs": {
+      "allWorks": "All Works",
+      "apps": "Applications",
+      "websites": "Websites",
+      "businessManagement": "ERP"
+      }
+    },
+
+    "FAQ": {
+      "title": "Frequently Asked <exe>Questions</exe> Accurate Answers to Your Inquiries",
+      "description": "We've dedicated this section to providing clear and reliable answers to the most common questions we receive from our clients. Our goal is to help you access the information you need easily, and build your confidence in our services by providing a practical reference that saves you time and effort.",
+      "faqs": [
+        { "question": "What is the nature of the services you provide?", "answer": "We offer integrated software solutions that include website and application development, electronic payment systems, and digital transformation, with a focus on innovation and quality to ensure real value for our clients." },
+        { "question": "How can I start collaborating with you?", "answer": "We offer integrated software solutions that include website and application development, electronic payment systems, and digital transformation, with a focus on innovation and quality to ensure real value for our clients." },
+        { "question": "Do you provide customized solutions based on client needs?", "answer": "We offer integrated software solutions that include website and application development, electronic payment systems, and digital transformation, with a focus on innovation and quality to ensure real value for our clients." },
+        { "question": "What is the typical duration for project implementation?", "answer": "We offer integrated software solutions that include website and application development, electronic payment systems, and digital transformation, with a focus on innovation and quality to ensure real value for our clients." }
+      ]
+    },
+
+    "clients": {
+      "badge": "Client Reviews",
+      "title": "<exe> Client </exe> Feedback Proof of Our Success",
+      "description": "We believe that client satisfaction is the true measure of our work quality. In this section, we share with you the experiences and feedback of our partners, reflecting their trust in us and affirming our commitment to innovation and excellence.",
+      "comments": [
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"},
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"},
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"},
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"},
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"},
+        {"comment": "From the start of our collaboration with the team, we felt their professionalism and attention to detail. Their role wasn't limited to just executing the requirements; they provided us with technical consultations and innovative suggestions that helped us significantly improve the user experience. The result was an integrated digital platform that is easy to use and delivers high performance, which directly reflected in our clients' satisfaction and increased engagement rates with our services.", "publisher": "Mohammed Omar – Business Development Manager"}
+      ]
+    },
+
+    "blogs": {
+      "badge": "Blog",
+      "title": "Our Articles <exe>Your Window</exe> to the World of Software",
+      "description": "Discover the latest articles and insights about software and modern technologies, where we share innovative perspectives to help you keep up with developments and build a more successful digital future.",
+      "blogs": [
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"}
+      ],
+      "readMore": "Read More"
+    }
+  },
+
+  "aboutPage":{
+    "hero": {
+      "title": "About Us",
+      "description": "We are a leading software company focused on delivering innovative technical solutions that support organizations in their digital transformation journey. We work with expertise and high standards to ensure our clients experience efficiency, security, and reliability, and we dedicate our passion for technology to building a more successful and sustainable future."
+    },
+    "future": {
+      "title": "Towards a <exe>More Successful</exe> Digital Future",
+      "description": "We are committed to innovating advanced software solutions that support organizations in their digital transformation journey, and we aspire to be the trusted partner that guides your business towards a more successful and sustainable future.",
+      "ourMessages": {
+        "title": "Our Message",
+        "description": "Our message is to put technology at the service of people and business, through innovative software solutions that help organizations face the challenges of the digital age. We believe that software is not just a tool, but a force capable of creating real change in the way we work and achieving sustainable growth. Therefore, we are committed to delivering products and services characterized by efficiency and reliability, and we ensure that our solutions are flexible and scalable to meet our clients' evolving needs. Our passion for technology drives us to constantly search for the best, to be the trusted partner that accompanies our clients on their journey towards a more successful and innovative future."
+      },
+      "ourVision": {
+        "title": "Our Vision",
+        "description": "Our vision is to be the leading technical partner that inspires organizations towards a more successful and sustainable digital future. We believe that innovation is the path to achieving excellence, and that technology is capable of transforming ideas into practical solutions that make a real difference in people's lives and businesses. We strive to create an advanced digital environment that supports growth, opens new horizons for creativity, and positions our clients as leaders in a rapidly changing world."
+      },
+      "ourValues": {
+        "title": "Our Values",
+        "description": "Our values stem from our commitment to innovation, reliability, and teamwork. We believe that our success is based on transparency with our clients, quality in everything we deliver, and flexibility in facing changing market challenges. We place customer satisfaction at the core of our priorities, and we constantly strive to deliver software solutions that add real value and build long-term partnerships based on trust and mutual respect."
+      }
+    }
+  },
+
+  "worksPage": {
+    "hero": {
+      "title": "Our Works",
+      "description": "In our works, we showcase a collection of projects we are proud to have implemented, where we translate ideas into innovative digital solutions that support company growth and achieve their goals. Our works combine technology and creativity, and demonstrate our commitment to quality and professionalism in every detail. Each project is a success story that reflects our partnership with our clients and our constant desire to provide real value to them."
+    },
+    "badge": "Our Works",
+    "title": "Digital <exe>Works</exe> Reflecting Our Success",
+    "description": "Our works embody our expertise and passion for innovation, as we transform ideas into integrated digital projects that achieve tangible results and provide our partners with real value and a strong presence in the market."
+  },
+
+  "workDetailsPage": {
+    "workTitle": "Your Smart E-Learning Application",
+    "workDescription": "Designed to empower individuals and organizations through interactive educational content, programs built on the latest curricula, and seamless digital experience. Elevate your skills, expand your educational horizons, and achieve balance between personal and professional development — step by step.",
+    "services": {
+      "title": "Service",
+      "service": "E-Learning and Distance Learning Services"
+    },
+    "client": {
+      "title": "Client",
+      "client": "Al-Mohannaq – Saudi Arabia"
+    },
+    "category": {
+      "title": "Category",
+      "category": "Educational App Design and Development"
+    }
+  },
+
+  "blogPage": {
+    "hero": {
+      "title": "Blog",
+      "description": "In our blog, we share the latest articles and technical news, and provide innovative insights to help you keep up with developments in the world of business and technology. Here you find content that inspires you and enriches your knowledge, from practical tips to specialized analyses, to be your constant reference towards innovation and growth."
+    },
+    "badge": "Blog",
+    "title": "Our Articles <exe>Your Window</exe> to the World of Software",
+    "description": "Discover the latest articles and insights about software and modern technologies, where we share innovative perspectives to help you keep up with developments and build a more successful digital future.",
+    "blogs": [
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"},
+      {"badge": "Software Development", "title": "Latest Innovations and Features to Support Business Growth Through Advanced Software Solutions", "date": "April 7, 2025"}
+      ]
+  },
+
+  "blogDetailsPage": {
+    "title": "Latest Innovations and Features to Support Business Growth Through Software Solutions",
+    "intro": "In today’s fast-paced digital business world, software solutions are no longer just supportive tools—they have become essential for achieving sustainable growth. Companies that invest in modern technologies can enhance customer experience, expand their services, and confidently enter new markets.",
+    
+    "whyTitle": "Why Are Software Innovations Important for Businesses?",
+    "whyDescription": "Software innovations empower businesses to grow and innovate while improving efficiency, enhancing customer experience, and ensuring sustainability in a competitive environment.",
+    
+    "features": {
+      "smartAutomation": {
+        "title": "1. Smart Automation",
+        "desc": "Smart automation helps streamline operations and accelerate repetitive tasks, increasing efficiency and allowing teams to focus on innovation.",
+        "example": "Example: AI-powered HR systems that simplify real-time employee management."
+      },
+      "advancedAnalytics": {
+        "title": "2. Advanced Analytics",
+        "desc": "Modern decisions rely on data. Software solutions provide powerful tools for analyzing data and extracting insights to support strategies.",
+        "example": "Example: Interactive dashboards that display KPIs and predict future trends."
+      },
+      "cloudSolutions": {
+        "title": "3. Cloud Solutions",
+        "desc": "Cloud solutions enable flexible access to data and applications from anywhere, boosting productivity and reducing costs.",
+        "example": "Example: SaaS platforms offering ready-to-use tools for project management or customer service without heavy investment."
+      },
+      "cyberSecurity": {
+        "title": "4. Cybersecurity",
+        "desc": "With increasing digital threats, cybersecurity technologies are essential to protect data and ensure business continuity.",
+        "example": "Example: Advanced encryption systems and firewalls to secure sensitive information."
+      }
+    },
+
+    "valueTitle": "Business Value",
+    "valuePoints": [
+      "Accelerating innovation and launching new products and services faster.",
+      "Improving operational efficiency and reducing costs.",
+      "Enhancing customer experience and satisfaction.",
+      "Supporting data-driven decision making.",
+      "Ensuring sustainable growth in a competitive environment."
+    ],
+
+    "stepsTitle": "Practical Steps to Adopt Software Solutions",
+    "steps": [
+      "Define strategic goals and understand business needs.",
+      "Choose technologies that align with your business nature.",
+      "Train teams to effectively use new tools.",
+      "Continuously monitor performance and analyze results.",
+      "Focus on user experience as a core part of development."
+    ]
+  },
+
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "description": "We are here to support you and answer all your inquiries. Our team is ready to listen to your needs and provide appropriate solutions quickly and professionally. You can contact us by phone, email, or through the dedicated form on the website, and we will be happy to serve you and assist you at any time."
+    },
+    "badge": "Contact Us",
+    "title": "Contact Us to <exe>Enhance</exe> Your Partnership with Us",
+    "description": "We provide you with direct and fast communication channels to ensure you receive appropriate support, get answers to your inquiries, and discuss collaboration opportunities to achieve your goals efficiently and professionally.",
+    "form":{
+      "labels": {
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "message": "Message"
+      },
+      "placeholders": {
+        "fullName": "Enter Full Name",
+        "email": "Enter Email Address",
+        "phone": "Enter Phone Number",
+        "message": "Enter Your Message"
+      },
+      "submit": "Send Message",
+      "submitting": "Sending Message...",
+
+      "errors": {
+        "fullNameRequired": "Full name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Invalid email address",
+        "phoneRequired": "Phone number is required",
+        "phoneInvalid": "Invalid phone number",
+        "messageRequired": "Message is required"
+      }
+    } 
+  },
+
+  "ServicesPage": {
+    "hero": {
+      "title": "Our Services",
+      "description": "Our services combine innovation and quality to deliver integrated software solutions that support digital transformation and meet business needs with efficiency and reliability. We ensure our solutions are flexible and scalable to align with our clients’ ambitions and help them achieve sustainable success."
+    },
+    "badge": "Our Services",
+    "title": "Software <exe> Solutions </exe> That Support Your Growth",
+    "description": "We provide a comprehensive range of technical services that help you launch, scale, and digitally transform your business, ensuring innovation and quality at every stage of your journey.",
+    "gallery": {
+      "serviceSupport": {
+        "label": "Technical Support",
+        "description": "We provide continuous technical support to ensure system stability and high performance, with fast response to any technical issues and regular updates to maintain the security and smooth operation of your digital platforms."
+      },
+      "mobileDevelopment": {
+        "hero": "Mobile App Development",
+        "label": "Mobile App Development",
+        "description": "We develop smart applications for Android and iOS with high performance and excellent user experience, ensuring you reach your audience anytime and anywhere."
+      },
+      "ecommerceDevelopment": {
+        "label": "E-commerce Development",
+        "description": "We build fully integrated online stores equipped with secure payment systems and easy-to-use dashboards, enabling you to manage your products and increase your sales efficiently."
+      },
+      "businessManagement": {
+        "label": "Business Management Systems",
+        "description": "We develop customized ERP and CRM systems to help you manage operations and customers efficiently, organize your data accurately, and support better decision-making to improve team performance."
+      },
+      "websiteDevelopment": {
+        "label": "Website Development",
+        "description": "We design and develop professional websites that combine high performance with attractive design, delivering a smooth user experience that helps convert visitors into real customers."
+      },
+      "userInterfaceDesign": {
+        "label": "UI/UX Design",
+        "description": "We design thoughtful digital experiences focused on understanding users, delivering modern and user-friendly interfaces that enhance engagement and increase conversion rates."
+      }
+    }
+  },
+
+  "mobileDevelopment": {
+    "hero": {
+      "title": "Mobile App Development",
+      "description": "Our services combine innovation and quality to deliver integrated software solutions that support digital transformation and meet organizational needs with efficiency and reliability. We ensure our solutions are flexible and scalable to keep pace with our clients' aspirations and achieve sustainable success."
+    },
+    "steps": [
+      {
+        "title": "1. <highlight>App</highlight> Strategy",
+        "description": "We always start by understanding your business goals and target audience, then analyze competitors to define the core features of the app. We build a clear strategy that outlines development phases, technologies, and growth plans to ensure a strong product that helps you achieve success and reach your customers effectively."
+      },
+      {
+        "title": "2. <highlight>UI/UX</highlight> Design",
+        "description": "We focus on creating a smooth and intuitive user experience with modern and attractive interfaces. We analyze user behavior and provide design that ensures easy interaction and navigation within the app, increasing engagement and user retention rates."
+      },
+      {
+        "title": "3. <highlight> Technical </highlight> Development",
+        "description": "We build applications using the latest technologies, whether Native or Hybrid, while ensuring high performance and compatibility across different devices. We write clean, scalable code to ensure long-term sustainability of the app."
+      },
+      {
+        "title": "4. <highlight> System </highlight> Integration",
+        "description": "We integrate the app with various systems such as payment gateways, CMS platforms, or any external services to ensure a seamless user experience and streamline operations within the app."
+      },
+      {
+        "title": "5. Testing <highlight> & Quality </highlight>",
+        "description": "Before launching the app, we conduct comprehensive testing to ensure it is error-free and meets the highest standards of performance and security. We test all features to guarantee an optimal user experience."
+      },
+      {
+        "title": "6. Support <highlight> & Updates </highlight>",
+        "description": "We provide continuous support after launch, along with regular updates to add new features and improve performance. We ensure the app stays up-to-date with developments and meets user needs over the long term."
+      }
+    ]
+  },
+
+  "websiteDevelopment": {
+    "hero": {
+      "title": "Website Development",
+      "description": "Our services combine innovation and quality to deliver integrated software solutions that support digital transformation and meet organizational needs with efficiency and reliability. We ensure our solutions are flexible and scalable to keep pace with our clients' aspirations and achieve sustainable success."
+    },
+    "steps": [
+      {
+        "title": "1. <highlight>Website </highlight> Strategy",
+        "description": "We start by understanding your goals and analyzing your target audience, then create a strategic plan defining the right type of website and structuring pages and user experience."
+      },
+      {
+        "title": "2. <highlight>UI/UX </highlight> Design",
+        "description": "We design modern interfaces and smooth user experiences, ensuring the website is visually appealing and easy to navigate across all devices."
+      },
+      {
+        "title": "3. <highlight>Technical </highlight> Development",
+        "description": "We build the website using modern technologies to ensure performance, speed, and security with scalability for future growth."
+      },
+      {
+        "title": "4. <highlight>System </highlight> Integration",
+        "description": "We integrate your website with payment systems, marketing tools, and CMS platforms to create a complete digital ecosystem."
+      },
+      {
+        "title": "5. Testing <highlight> & Quality</highlight>",
+        "description": "We perform comprehensive testing before launch to ensure performance, usability, and error-free experience."
+      },
+      {
+        "title": "6. Support <highlight> & Updates</highlight>",
+        "description": "We provide ongoing support and updates to keep your website stable, secure, and aligned with market needs."
+      }
+    ]
+  },
+
+  "ecommerceDevelopment": {
+    "hero": {
+      "title": "E-commerce Development",
+      "description": "Our services combine innovation and quality to deliver integrated software solutions that support digital transformation and meet organizational needs with efficiency and reliability. We ensure our solutions are flexible and scalable to keep pace with our clients' aspirations and achieve sustainable success."
+    },
+    "steps": [
+      {
+        "title": "1. <highlight>Store </highlight> Strategy",
+        "description": "At this stage, we create a clear plan that defines the website’s goals and target audience. We also determine the type of website (corporate, e-commerce, or service-based) and outline the overall structure to ensure a smooth user journey and effective results."
+      },
+      {
+        "title": "2. <highlight>UI/UX </highlight> Design",
+        "description": "We focus on designing modern and visually appealing interfaces that enhance user experience. We ensure the design is responsive across all devices, easy to navigate, and optimized to increase engagement and conversions."
+      },
+      {
+        "title": "3. Technical <highlight> Development</highlight>",
+        "description": "We build the website using the latest technologies to ensure high performance, speed, and security. The development process guarantees compatibility across browsers and scalability for future growth."
+      },
+      {
+        "title": "4. <highlight>System </highlight> Integration",
+        "description": "We connect your website with essential systems such as payment gateways, marketing tools, and external platforms to create a fully integrated digital ecosystem that supports your business operations."
+      },
+      {
+        "title": "5. Testing <highlight> & Quality</highlight>",
+        "description": "Before launching, we conduct thorough testing to ensure the website functions flawlessly, delivers excellent performance, and provides a seamless user experience without errors."
+      },
+      {
+        "title": "6. Support <highlight> & Updates</highlight>",
+        "description": "After launch, we continue to provide ongoing support and regular updates to maintain stability, improve performance, and ensure your website stays aligned with evolving user needs and market trends."
+      }
+    ]
+  },
+
+  "userInterfaceDesign": {
+    "hero": {
+      "title": "UX/UI Design",
+      "description": "Our services combine innovation and quality to deliver integrated software solutions that support digital transformation and meet organizational needs with efficiency and reliability. We ensure our solutions are flexible and scalable to keep pace with our clients' aspirations and achieve sustainable success."
+    },
+    "steps": [
+      {
+        "title": "1. <highlight> Design </highlight> Strategy",
+        "description": "We begin by defining the design goals and understanding the target audience, then create a clear plan that ensures the interface is visually appealing, consistent with the brand identity, and provides a comfortable user experience."
+      },
+      {
+        "title": "2. User <highlight> Experience (UX)</highlight> ",
+        "description": "We focus on improving the user journey by simplifying navigation and organizing content clearly. This helps users reach their goals easily, enhancing satisfaction and increasing engagement and conversion rates."
+      },
+      {
+        "title": "3. User <highlight> Interface (UI)</highlight>",
+        "description": "We design modern and attractive interfaces with attention to colors, typography, and visual elements. We ensure consistency and clarity to deliver a seamless and enjoyable interaction for users."
+      },
+      {
+        "title": "4. <highlight>Responsive </highlight> Design",
+        "description": "We ensure the website is fully responsive and works efficiently across all devices and screen sizes, providing a consistent and smooth experience on desktops, tablets, and mobile devices."
+      },
+      {
+        "title": "5.Testing <highlight> & Improvement</highlight>",
+        "description": "We test the design thoroughly to ensure usability, speed, and performance. Based on feedback and testing results, we continuously refine and improve the design for the best outcome."
+      },
+      {
+        "title": "6. Innovation <highlight> & Visual Experience</highlight>",
+        "description": "We add creative touches and modern visual elements to make the design unique and engaging, ensuring a memorable experience that reflects your brand identity."
+      }
+    ]
+  },
+
+  "businessManagement": {
+    "hero": {
+      "title": " Business Management Systems",
+      "description": "We start by defining design goals and understanding the target audience, then create a clear plan that ensures the interface is visually appealing, consistent with brand identity, and provides a comfortable user experience."
+    },
+    "steps": [
+    {
+      "title": "1. <highlight>System</highlight> Strategy",
+      "description": "We start by analyzing the nature of your business and operational needs, whether small, medium, or large. We then develop a comprehensive plan to design an integrated business management system. This strategy ensures the system becomes a practical tool that helps you organize daily operations, improve efficiency, and reduce costs — while supporting strategic decision-making based on accurate data."
+    },
+    {
+      "title": "2. <highlight>Operations</highlight> Management",
+      "description": "We provide advanced solutions for managing various aspects of your business, such as human resources, sales, inventory, and accounting. These systems enable operations to run with greater clarity and ease, reducing errors caused by manual work — freeing your team to focus on more important and strategic decisions."
+    },
+    {
+      "title": "3. <highlight>Technical</highlight> Development",
+      "description": "Business management systems are built using native programming languages and modern technologies, giving you full flexibility to customize the system according to your specific needs. We ensure the system is designed for continuous scalability to guarantee high performance and effectiveness, with the ability to add new modules in the future such as project management or customer service."
+    },
+    {
+      "title": "4. Integration with <highlight>Other Systems</highlight>",
+      "description": "We connect the system to multiple services such as payment gateways, digital marketing tools, and data channels — making it part of an integrated digital ecosystem that supports business growth and increases operational efficiency. This integration allows you to manage everything from one place, providing a seamless experience for both employees and customers alike."
+    },
+    {
+      "title": "5. Analytics <highlight> And Reports</highlight>",
+      "description": "We provide advanced analytics tools and interactive dashboards that help you monitor performance, measure results, and make decisions based on real data. This feature gives you a comprehensive view of your business, helps you identify strengths and weaknesses, and plan for the future with greater confidence."
+    },
+    {
+      "title": "6. Testing <highlight> and Quality</highlight>",
+      "description": "Before launch, we conduct a comprehensive testing phase covering performance, security, and usability. We ensure the system operates efficiently across different devices and operating environments, addressing any issues or vulnerabilities before the official release — guaranteeing an optimal experience for users."
+    },
+    {
+      "title": "7. Support <highlight> and Updates </highlight>",
+      "description": "We provide ongoing technical support and regular updates to keep the system aligned with the latest technologies. We also assist you in adding new modules or improvements based on market needs and business growth, ensuring the system remains an effective tool that serves your business over the long term."
+    }
+  ]
+  },
+
+  "serviceSupport": {
+  
+    "hero": {
+      "title": "Service Support",
+      "description": "We start by defining design goals and understanding the target audience, then create a clear plan that ensures the interface is visually appealing, consistent with brand identity, and provides a comfortable user experience."
+    },
+    "steps": [
+    {
+      "title": "1. <highlight> Support </highlight> Strategy",
+      "description": "We start by identifying your technical needs and establishing a comprehensive support plan. Our strategy ensures systems and applications run without interruption. It covers fault prioritization, response levels, and communication channels — with guarantees on response speed, resolution time, and minimizing any impact on your workflow."
+    },
+    {
+      "title": "2. <highlight>Preventive</highlight> Maintenance",
+      "description": "We don't wait for failures to happen. We conduct regular procedures to monitor system performance, update software, and perform security checks. This preventive maintenance helps avoid problems before they occur and ensures long-term service stability."
+    },
+    {
+      "title": "3. <highlight> Emergency </highlight> Problem Resolution",
+      "description": "We provide a specialized support team capable of handling various technical faults quickly and effectively, whether related to software, networks, or hardware. Our goal is to minimize downtime and ensure the system returns to operation as fast as possible through root-cause solutions that prevent recurrence."
+    },
+    {
+      "title": "4. <highlight>Continuous</highlight> Communication",
+      "description": "We offer multiple support channels including phone, email, and ticketing systems, allowing you to reach us whenever you need. We track every request closely until fully resolved, with periodic reports that reflect service levels and quality."
+    },
+    {
+      "title": "5. Updates  <highlight>and Development</highlight>",
+      "description": "Our role goes beyond fixing problems — we also work on regularly updating systems and adding new improvements that keep pace with the latest technologies. This ensures your business stays aligned with market demands and adapts to your evolving needs."
+    },
+    {
+      "title": "6. Training  <highlight>and Guidance</highlight>",
+      "description": "We provide training sessions and practical guidance for your team to help them use systems more efficiently and reduce common errors. This empowers your team to independently handle recurring challenges and reduces dependency on continuous technical support."
+    },
+    {
+      "title": "7. Quality Assurance  <highlight>and Security</highlight>",
+      "description": "We are committed to high standards in delivering technical support, with a strong focus on data protection and information confidentiality. This gives you full confidence in the continuity of your business without risk, and strengthens your company's credibility with clients and partners."
+    }
+  ]
+  },
+
+  "privacyPolicy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "description": "We are committed to protecting your personal information and ensuring its confidentiality. We use the information only to improve your experience with our services. We do not share your data with any third party without your consent, and we apply the highest security standards to guarantee the protection of your information. Your trust in us is the foundation of our relationship, and we strive to provide a safe and reliable environment for our customers."
+    },
+    "intro": "We place the utmost importance on protecting our users' privacy and ensuring the confidentiality of their data. This policy aims to clarify how we collect, use, and protect information when you use our website or services. We are committed to applying the highest standards of security and transparency to ensure a safe and trustworthy experience.",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "items": [
+          "Personal Information: Such as your name, email address, phone number, or any data you provide when registering or contacting us.",
+          "Technical Information: Such as your IP address, device type, operating system, and browser used to improve performance.",
+          "Usage Data: Such as the pages you visit, the time you spend on the site, and the activities you perform.",
+          "Additional Information: Such as surveys or feedback you provide to help us improve our services."
+        ]
+      },
+      {
+        "title": "How We Use the Information",
+        "items": [
+          "To personalize and improve the user experience.",
+          "To respond to your inquiries and provide technical support.",
+          "To develop and expand our services.",
+          "To send important notifications or updates related to our services.",
+          "To ensure compliance with applicable laws and regulations."
+        ]
+      },
+      {
+        "title": "Data Protection",
+        "items": [
+          "We use the latest security technologies such as encryption and firewalls.",
+          "Data is stored in secure systems subject to periodic review.",
+          "We restrict access to data so that only authorized employees can access it."
+        ]
+      },
+      {
+        "title": "Information Sharing",
+        "items": [
+          "We do not share your data with external parties except when necessary, such as for legal compliance or service delivery through trusted partners.",
+          "We ensure that any third party handling your data adheres to privacy and security standards.",
+          "Your data will never be sold or used for unauthorized marketing purposes."
+        ]
+      },
+      {
+        "title": "User Rights",
+        "items": [
+          "The right to access and update your personal data.",
+          "The right to request deletion of your data or restrict its use.",
+          "The right to object to the processing of your data for certain purposes.",
+          "The right to file a complaint with the relevant authorities if you feel your privacy has been violated."
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "description": "If you have any inquiry or request regarding the privacy policy, you can contact us via:"
+      }
+    ]
+  },
+
+  "common": {
+    "navbar": { 
+      "label": "Contact Us",
+      "links": {
+        "works": "Our Works",
+        "home": "Home",
+        "blog": "Blog",
+        "whoUs": "Who Us",
+        "servises": "Our Services",
+        "contactus": "Contact Us"
+      }
+    },
+    "ourServices": ["Technical Support", "Business Management Systems", "Website Development", "UI/UX Design", "Mobile App Development"],
+    "readMore": "Read More",
+    "contactUs": "Contact Us",
+    "knowMore": "Know More",
+    "noData": "Data not available!"
+  },
+
+  "layout": {
+    "footer": {
+      "subTitle": "Subscribe to get the latest <exe>news</exe> about software and technologies",
+      "subDiscription": "Stay always updated with the latest developments in the world of software, from product updates and new feature launches to our technical innovations that support your digital success.",
+      "inputPlaceholder": "Enter your email address",
+      "subButton": "Subscribe Now",
+      "content": "We believe that innovation is the foundation of digital success. Through our advanced software solutions and technical expertise, we help companies build a more efficient and reliable future, and provide them with tools that support sustainable growth and achieve real value.",
+      "linksTitle": "Quick Links",
+      "policy": {
+        "title": "Policies and Terms",
+        "link": "Privacy Policy"
+      },
+      "contactUs": {
+        "title": "Contact Us",
+        "location": "King Abdullah Street, Al-Hada Tower"
+      },
+      "rights": "© 2026 All rights reserved. Nowah"
+    }
+  }
+}
