@@ -7,7 +7,7 @@ export default function ServiceSupportPage() {
     <main>
         <ServiceSupportHero/>
         <ServiceSupportContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

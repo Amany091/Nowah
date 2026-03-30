@@ -9,7 +9,7 @@ export default function AboutPage() {
       <AboutHero/>
       <WhyUs/>
       <NowahFuture/>
-      <ServicesSliderSection/>
+      {/* <ServicesSliderSection/> */}
     </main>
   )
 }

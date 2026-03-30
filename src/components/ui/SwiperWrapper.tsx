@@ -2,6 +2,7 @@
 
 import React, { useId, useRef } from 'react'
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
+import { useLocale } from 'next-intl';
 import { Autoplay, EffectCoverflow, Navigation, Pagination } from 'swiper/modules';
 import { Swiper } from 'swiper/react'
 import type {  Swiper as SwiperType } from "swiper";
@@ -23,11 +24,14 @@ type Props = {
     autoPlay?: boolean;
     delay?: number;
     speed?: number;
+    onSwiper?: (swiper: SwiperType) => void;
     // Breakpoints
     sm?: number; md?: number; lg?: number; xl?: number;
 }
 
-export default function SwiperWrapper({slidesPerView = "auto", navigationClassName, speed=0, autoPlay=false, delay=2000, centeredSlides= false, className, effect, grapCursor=false, loop=false, navigation=false, pagination=false, spaceBetween=0, stretch = 0, lg, md, sm, xl, children}: Props) {
+export default function SwiperWrapper({slidesPerView = "auto", navigationClassName, speed=0, autoPlay=false, delay=2000, centeredSlides= false, className, effect, grapCursor=false, loop=false, navigation=false, pagination=false, spaceBetween=0, stretch = 0, lg, md, sm, xl, onSwiper, children}: Props) {
+    const locale = useLocale();
+    const isRtl = locale === 'ar';
     let modules = []
     if(pagination) modules.push(Pagination);
     if(navigation) modules.push(Navigation);
@@ -50,7 +54,7 @@ export default function SwiperWrapper({slidesPerView = "auto", navigationClassNa
         spaceBetween={spaceBetween}
         slidesPerView={slidesPerView}
         breakpoints={breakpoints}
-        pagination={pagination ? {clickable: true, el: `#custom-pagination-${uniqueId}`} : false}
+pagination={pagination ? {clickable: true, el: `#custom-pagination-${uniqueId}`} : false}
         navigation={navigation? {}: false}
         onBeforeInit={(swiper: SwiperType) => {
     if (navigation && swiper.params.navigation && typeof swiper.params.navigation !== "boolean") {
@@ -69,7 +73,7 @@ export default function SwiperWrapper({slidesPerView = "auto", navigationClassNa
             rotate: 0, stretch: stretch, depth: 150, modifier: 1, slideShadows: false
         } : {}}
         className={`w-full mx-auto ${className}`}
-        onSwiper={(swiper: SwiperType)=> swiperRef.current = swiper}
+        onSwiper={(swiper: SwiperType)=> { swiperRef.current = swiper; onSwiper?.(swiper); }}
         autoplay={autoPlay? { delay: delay, pauseOnMouseEnter: true, disableOnInteraction: false }: false}
         speed={speed}
 
@@ -80,13 +84,13 @@ export default function SwiperWrapper({slidesPerView = "auto", navigationClassNa
         {pagination && navigation &&
             <div className="absolute left-1/2 -translate-x-1/2 gap-3 flex items-center justify-between z-20">
                 <div id={`prev-${uniqueId}`} className={` ${navigationClassName} cursor-pointer rounded-full border  flex justify-center items-center text-green-normal w-11 h-11`}>
-                    <IoIosArrowBack/>
+                    {isRtl ? <IoIosArrowForward/> : <IoIosArrowBack/>}
                 </div>
 
                 <div className={'flex items-center w-fit!'} id={`custom-pagination-${uniqueId}`} />
 
                 <div id={`next-${uniqueId}`} className={`rounded-full cursor-pointer border flex justify-center items-center text-green-normal w-11 h-11 ${navigationClassName} `}>
-                    <IoIosArrowForward/>
+                    {isRtl ? <IoIosArrowBack/> : <IoIosArrowForward/>}
                 </div>
             </div>
         }

@@ -27,7 +27,7 @@ export default function Services() {
     <div className="flex flex-col gap-3">
       {services.map((item, index) => (
         <div
-          className="cursor-pointer"
+          className="cursor-pointer group"
           onClick={() => setService(item)}
           key={item.id}
         >
@@ -36,12 +36,12 @@ export default function Services() {
               item.id === service.id
                 ? "text-green-normal"
                 : "text-gray-500"
-            } font-bold text-24 font-changa mb-1`}
+            } group-hover:text-green-normal font-bold text-24 font-changa mb-1 transition-colors duration-200`}
           >
             {nums[index]}
           </span>
 
-          <p className="font-changa font-medium text-18 text-gray-500">
+          <p className="font-changa font-medium text-18 text-gray-500 group-hover:text-black transition-colors duration-200">
             {t(`services.${nums[index]}` as string)}
           </p>
         </div>

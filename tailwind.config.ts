@@ -120,8 +120,8 @@ const config: Config = {
 
             fontFamily: {
                 // Primary typeface: Changa
-                sans: ["Changa", "sans-serif"],
-                changa: ["Changa", "sans-serif"],
+                sans: ["var(--font-changa)", "sans-serif"],
+                changa: ["var(--font-changa)", "sans-serif"],
             },
 
             boxShadow: {

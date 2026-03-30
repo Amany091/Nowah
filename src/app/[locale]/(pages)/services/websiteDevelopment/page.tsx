@@ -7,7 +7,7 @@ export default function WebsiteDevelopmentPage() {
     <main>
         <WebsiteDevelopmentHero/>
         <WebsiteDevelopmentContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

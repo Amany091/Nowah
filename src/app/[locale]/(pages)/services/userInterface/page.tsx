@@ -7,7 +7,7 @@ export default function UserInterfaceServicePage() {
     <main>
         <UserInterfaceHero/>
         <UserInterfaceContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

@@ -8,7 +8,7 @@ export default function PrivacyPolicyPage() {
     <main>
         <PrivacyHero/>
         <PrivacyContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

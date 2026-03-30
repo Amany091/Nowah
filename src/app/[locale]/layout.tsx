@@ -6,6 +6,13 @@ import "swiper/css/effect-coverflow";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Footer from "@/components/layout/footer/Footer";
+import { Changa } from "next/font/google";
+
+const changa = Changa({
+  subsets: ["arabic", "latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-changa",
+});
 
 export default async function LocaleLayout({
   children,
@@ -22,7 +29,7 @@ export default async function LocaleLayout({
       dir={locale === "ar"? 'rtl':'ltr'}
       suppressHydrationWarning
     >
-      <body className="scroll-smooth h-screen">
+      <body className={`${changa.variable} font-changa scroll-smooth h-screen`}>
         <NextIntlClientProvider>
           <Navbar/>
           {children}

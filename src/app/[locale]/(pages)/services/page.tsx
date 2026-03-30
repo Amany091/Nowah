@@ -9,7 +9,7 @@ export default function ServicesPage() {
     <main>
         <ServiceHero/>
         <Services/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

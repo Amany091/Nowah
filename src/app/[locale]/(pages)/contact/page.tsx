@@ -8,7 +8,7 @@ export default function ContactUsPage() {
     <main>
         <ContactHero/>
         <ContactContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

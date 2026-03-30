@@ -7,7 +7,7 @@ export default function EcommerceDevelopmentPage() {
     <main>
         <EcommerceDevelopmentHero/>
         <EcommerceDevelopmentContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

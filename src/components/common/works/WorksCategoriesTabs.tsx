@@ -19,11 +19,11 @@ export default function WorksCategoriesTabs({active, onActive, className}: Props
   return (
     <div className='flex gap-6 flex-wrap justify-center items-center my-10'>
         {tabs.map((t) => (
-            <button 
+            <button
                 key={t.id}
                 type="button"
                 onClick={()=> onActive(t.tab)}
-                className={`py-3.25 px-4 cursor-pointer hover:bg-green-normal duration-300 ease-in-out border rounded-[50px] w-59 ${className}`}
+                className={`py-3.25 px-4 cursor-pointer duration-300 ease-in-out border rounded-[50px] w-59 ${active === t.tab ? 'bg-green-normal border-green-normal text-white' : `hover:bg-green-normal hover:border-green-normal hover:text-white ${className}`}`}
             >
                 {t.label}
             </button>

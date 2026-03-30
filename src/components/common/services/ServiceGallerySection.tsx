@@ -12,6 +12,7 @@ export default async function ServiceGallerySection() {
         image="/home/service-support.webp"
         title={t("serviceSupport.label")}
         description={t("serviceSupport.description")}
+        href="/services/serviceSupport"
       />
 
       <ServiceCard
@@ -19,6 +20,7 @@ export default async function ServiceGallerySection() {
         title={t("userInterfaceDesign.label")}
         description={t('userInterfaceDesign.description')}
         className='lg:col-span-1 lg:row-span-1 col-span-1 '
+        href="/services/userInterface"
       />
 
       <ServiceCard
@@ -26,6 +28,7 @@ export default async function ServiceGallerySection() {
         title={t("mobileDevelopment.label")}
         description={t('mobileDevelopment.description')}
         className='lg:col-span-2 lg:row-span-1 col-span-1'
+        href="/services/mobileDevelopment"
       />
 
       <ServiceCard
@@ -33,6 +36,7 @@ export default async function ServiceGallerySection() {
         title={t("websiteDevelopment.label")}
         description={t('websiteDevelopment.description')}
         className='lg:col-span-2 lg:row-span-1 col-span-1'
+        href="/services/websiteDevelopment"
       />
 
       <ServiceCard
@@ -40,6 +44,7 @@ export default async function ServiceGallerySection() {
         title={t("businessManagement.label")}
         description={t('businessManagement.description')}
         className='lg:col-span-1 lg:row-span-1 col-span-1 h-full!'
+        href="/services/businessManagementSystem"
       />
 
       <ServiceCard
@@ -47,6 +52,7 @@ export default async function ServiceGallerySection() {
         image="/home/online-shopping.webp"
         title={t("ecommerceDevelopment.label")}
         description={t('ecommerceDevelopment.description')}
+        href="/services/ecommerceDevelopment"
       />
     </div>
   )

@@ -25,7 +25,7 @@ export default function Works() {
           </div>
 
           <WorksCategoriesTabs active={activeTab} onActive={setActiveTab} className='border-white text-white' />
-          <WorksGallerySlider FilteredItems={filteredItems} />
+          <WorksGallerySlider key={activeTab} FilteredItems={filteredItems} />
        </BackgroundWrapper>
     </section>
   )

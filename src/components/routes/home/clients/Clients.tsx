@@ -16,7 +16,7 @@ export default async function Clients() {
     const t = await getTranslations("HomePage.clients")
   return (
     <section >
-        <BackgroundWrapper>
+        <BackgroundWrapper gradientStyle={{ background: "linear-gradient(to right, #354055, #6BBA74)" }} gradientOpacity="opacity-100">
             <div className="flex flex-col justify-center items-center mb-10">
                 <Badge text={t("badge")} />
                 <p className='font-semibold text-40 text-white mt-4 mb-2'> {t.rich("title", {

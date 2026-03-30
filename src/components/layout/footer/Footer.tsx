@@ -12,7 +12,7 @@ export default async function Footer() {
     <footer className='bg-midnight-dark-active pt-10'>
       <div className="container">
         <Subscription/>
-        <div className=' mt-20 mb-10 grid md:grid-cols-4 grid-cols-1 gap-21'>
+        <div className='mt-20 mb-10 grid md:grid-cols-[2fr_1fr_1fr_1fr] grid-cols-1 gap-21'>
           <FooterCompany/>
           <FooterLinks/>
           <CompanyPolicy/>

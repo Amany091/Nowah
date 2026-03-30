@@ -36,13 +36,13 @@ export default function ClientsSlider({items}: Props) {
                 return(
                 <SwiperSlide
                     key={index}
-                    className="border border-white/40 rounded-xl backdrop-blur-[53.4px] md:w-5xl! w-170 p-5 my-auto! "
+                    className="border border-white/40 rounded-xl backdrop-blur-[53.4px] md:w-5xl! w-170 my-auto! "
                 >
                     {({ isActive }) => (
                     <div
                         className={`transition-all duration-300 ${
                         isActive
-                            ? "scale-100 opacity-100 "
+                            ? "opacity-100 p-5 py-6"
                             : "scale-[0.5] opacity-40 h-61.75 my-auto!"
                         }`}
                     >

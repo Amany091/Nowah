@@ -18,7 +18,7 @@ export default function Home() {
       <FAQSection/>
       <Clients/>
       <Blogs/>
-      <ServicesSliderSection/>
+      {/* <ServicesSliderSection/> */}
     </main>
   );
 }

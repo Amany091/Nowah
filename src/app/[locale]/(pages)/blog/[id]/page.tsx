@@ -8,7 +8,7 @@ export default function BlogDetailsPage() {
     <main>
         <BlogHero/>
         <BlogsContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

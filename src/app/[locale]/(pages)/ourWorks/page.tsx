@@ -8,7 +8,7 @@ export default function WorksPage() {
     <main>
       <WorksHero/>
       <Works/>
-      <ServicesSliderSection/>
+      {/* <ServicesSliderSection/> */}
     </main>
   )
 }

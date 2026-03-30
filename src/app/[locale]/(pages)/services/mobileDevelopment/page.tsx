@@ -10,7 +10,7 @@ export default async function MobileDevelopmentPage() {
     <main>
         <MobileDevelopmentHero/>
         <MobileDevelopment/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }

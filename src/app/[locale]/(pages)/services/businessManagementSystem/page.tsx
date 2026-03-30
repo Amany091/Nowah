@@ -7,7 +7,7 @@ export default function BusinessManagementSystemPage() {
     <main>
         <BusinessManagementHero/>
         <BusinessManagementContainer/>
-        <ServicesSliderSection/>
+        {/* <ServicesSliderSection/> */}
     </main>
   )
 }
