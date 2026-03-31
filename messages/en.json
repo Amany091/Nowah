@@ -332,27 +332,27 @@
     "steps": [
       {
         "title": "1. <highlight>App</highlight> Strategy",
-        "description": "We always start by understanding your business goals and target audience, then analyze competitors to define the core features of the app. We build a clear strategy that outlines development phases, technologies, and growth plans to ensure a strong product that helps you achieve success and reach your customers effectively."
+        "description": "We always start with the idea, where we analyze your business goals and target audience, then create a clear strategic plan that defines the development stages, technologies used, and core features of the application. This strategy ensures that the application is not just a technical product, but a practical tool that helps you achieve growth and reach your customers effectively."
       },
       {
         "title": "2. <highlight>UI/UX</highlight> Design",
-        "description": "We focus on creating a smooth and intuitive user experience with modern and attractive interfaces. We analyze user behavior and provide design that ensures easy interaction and navigation within the app, increasing engagement and user retention rates."
+        "description": "Design is the face of the application to the user, so we pay great attention to user experience (UX) and visual interfaces (UI). We work on designing modern, attractive, and easy-to-use interfaces, focusing on small details that make interaction with the application smooth and enjoyable. The goal is for the user to feel comfortable and confident while using the app, which increases engagement and retention."
       },
       {
         "title": "3. <highlight> Technical </highlight> Development",
-        "description": "We build applications using the latest technologies, whether Native or Hybrid, while ensuring high performance and compatibility across different devices. We write clean, scalable code to ensure long-term sustainability of the app."
+        "description": "At this stage, we transform the design and plan into a real application using the latest programming languages and frameworks. Whether the app is native, delivering high performance on a specific system like Android or iOS, or hybrid, working across multiple platforms, we ensure speed, stability, and security. We also focus on writing clean, scalable code to make future feature expansion easier."
       },
       {
         "title": "4. <highlight> System </highlight> Integration",
-        "description": "We integrate the app with various systems such as payment gateways, CMS platforms, or any external services to ensure a seamless user experience and streamline operations within the app."
+        "description": "To make the application more powerful and effective, we integrate it with various systems and services such as payment gateways, databases, APIs, and business management systems. This integration allows the application to become part of a complete digital ecosystem, enhancing the value of the service provided to users and improving business efficiency."
       },
       {
         "title": "5. Testing <highlight> & Quality </highlight>",
-        "description": "Before launching the app, we conduct comprehensive testing to ensure it is error-free and meets the highest standards of performance and security. We test all features to guarantee an optimal user experience."
+        "description": "Before launching the application, we conduct a comprehensive testing phase that includes performance, security, and usability. We test the application on different devices and operating systems to ensure it performs efficiently under all conditions. We also focus on identifying and fixing any potential issues to ensure an optimal user experience from day one."
       },
       {
         "title": "6. Support <highlight> & Updates </highlight>",
-        "description": "We provide continuous support after launch, along with regular updates to add new features and improve performance. We ensure the app stays up-to-date with developments and meets user needs over the long term."
+        "description": "The application journey does not end at launch; a new phase of continuous technical support and regular updates begins. We provide a dedicated support team to resolve any issues you may encounter and update the application regularly to keep it aligned with the latest technologies and market needs. This ensures the app remains an effective tool that supports your business success in the long term."
       }
     ]
   },
@@ -365,27 +365,27 @@
     "steps": [
       {
         "title": "1. <highlight>Website </highlight> Strategy",
-        "description": "We start by understanding your goals and analyzing your target audience, then create a strategic plan defining the right type of website and structuring pages and user experience."
+        "description": "We begin by analyzing your business goals and target audience, then create a strategic plan that defines the most suitable type of website (corporate, e-commerce, blog, or service platform). This strategy ensures the website is not just a digital presence, but an effective tool to support your business and increase your online visibility."
       },
       {
         "title": "2. <highlight>UI/UX </highlight> Design",
-        "description": "We design modern interfaces and smooth user experiences, ensuring the website is visually appealing and easy to navigate across all devices."
+        "description": "We focus on designing modern interfaces and a smooth user experience, enabling visitors to navigate بسهولة and quickly access information or products. Attention to visual and interactive details enhances user trust and increases conversion rates."
       },
       {
         "title": "3. <highlight>Technical </highlight> Development",
-        "description": "We build the website using modern technologies to ensure performance, speed, and security with scalability for future growth."
+        "description": "We build e-commerce websites using native programming languages and modern technologies, giving you full flexibility to design and develop every part of the store according to your specific needs. We rely on writing clean, scalable code that ensures high performance and security, while making it easy to add new features in the future. This approach provides you with a fully customized store, free from the limitations of ready-made platforms, making your project more distinctive and aligned with your brand identity."
       },
       {
         "title": "4. <highlight>System </highlight> Integration",
-        "description": "We integrate your website with payment systems, marketing tools, and CMS platforms to create a complete digital ecosystem."
+        "description": "We integrate the website with various services such as online payment systems, databases, business management systems, and digital marketing tools (such as email and analytics). This integration makes the website part of a complete digital ecosystem that supports your business growth."
       },
       {
         "title": "5. Testing <highlight> & Quality</highlight>",
-        "description": "We perform comprehensive testing before launch to ensure performance, usability, and error-free experience."
+        "description": "Before launching the website, we conduct a comprehensive testing phase that includes performance, security, and usability. We test the website across different devices and browsers to ensure an optimal experience for all users, while addressing any issues or vulnerabilities before the official launch."
       },
       {
         "title": "6. Support <highlight> & Updates</highlight>",
-        "description": "We provide ongoing support and updates to keep your website stable, secure, and aligned with market needs."
+        "description": "We provide continuous technical support and regular updates to keep the website aligned with the latest technologies and ensure consistent high performance. We also help you add new features or improvements based on market needs and user interactions."
       }
     ]
   },
@@ -398,27 +398,27 @@
     "steps": [
       {
         "title": "1. <highlight>Store </highlight> Strategy",
-        "description": "At this stage, we create a clear plan that defines the website’s goals and target audience. We also determine the type of website (corporate, e-commerce, or service-based) and outline the overall structure to ensure a smooth user journey and effective results."
+        "description": "The journey of developing an online store begins with understanding the nature of your products and your target audience. We analyze the market, competitors, and customer behavior, then create a strategic plan that defines the store structure, main categories, payment methods, and inventory management processes. This strategy ensures that the e-commerce store is not just a digital storefront, but a practical tool that helps you increase sales, build customer loyalty, and expand your business online."
       },
       {
         "title": "2. <highlight>UI/UX </highlight> Design",
-        "description": "We focus on designing modern and visually appealing interfaces that enhance user experience. We ensure the design is responsive across all devices, easy to navigate, and optimized to increase engagement and conversions."
+        "description": "Design is a key factor in the success of any e-commerce store. We focus on creating modern, attractive interfaces with a smooth shopping experience that allows customers to browse products easily, add items to the cart, and complete checkout quickly and securely. We pay attention to small details such as page loading speed, image clarity, and ease of navigation, as they directly impact customer trust and conversion rates."
       },
       {
         "title": "3. Technical <highlight> Development</highlight>",
-        "description": "We build the website using the latest technologies to ensure high performance, speed, and security. The development process guarantees compatibility across browsers and scalability for future growth."
+        "description": "We build e-commerce stores using native programming languages and modern technologies, giving you full flexibility to customize every part of the store according to your specific needs. We rely on writing clean, scalable code that ensures high performance and security, while making it easy to add new features in the future. This approach provides you with a distinctive store, free from the limitations of ready-made platforms, making your project more unique and aligned with your brand identity."
       },
       {
         "title": "4. <highlight>System </highlight> Integration",
-        "description": "We connect your website with essential systems such as payment gateways, marketing tools, and external platforms to create a fully integrated digital ecosystem that supports your business operations."
+        "description": "To make the store more powerful and effective, we integrate it with various services such as online payment gateways, inventory management systems, digital marketing tools, and shipping and delivery services. This integration allows you to manage your business operations more efficiently and provides customers with a seamless, end-to-end experience from browsing products to receiving their orders."
       },
       {
         "title": "5. Testing <highlight> & Quality</highlight>",
-        "description": "Before launching, we conduct thorough testing to ensure the website functions flawlessly, delivers excellent performance, and provides a seamless user experience without errors."
+        "description": "Before launching the store, we conduct a comprehensive testing phase that includes performance, security, and usability. We test the store across different devices and browsers to ensure it performs efficiently under all conditions. We also focus on identifying and fixing any potential issues to ensure an optimal customer experience from day one."
       },
       {
         "title": "6. Support <highlight> & Updates</highlight>",
-        "description": "After launch, we continue to provide ongoing support and regular updates to maintain stability, improve performance, and ensure your website stays aligned with evolving user needs and market trends."
+        "description": "The store journey does not end at launch; it marks the beginning of a new phase of continuous technical support and regular updates. We provide a dedicated support team to resolve any issues you may encounter and update the store regularly to keep it aligned with the latest technologies and evolving market needs. We also help you add new features such as loyalty programs, promotional offers, or user interface improvements to ensure your long-term success."
       }
     ]
   },
@@ -431,27 +431,28 @@
     "steps": [
       {
         "title": "1. <highlight> Design </highlight> Strategy",
-        "description": "We begin by defining the design goals and understanding the target audience, then create a clear plan that ensures the interface is visually appealing, consistent with the brand identity, and provides a comfortable user experience."
+        "description": "We start by understanding the project goals and the nature of the target audience, then develop a well-thought-out design plan that defines how content and functionality will be presented to achieve the best user experience and reflect the brand identity. This stage ensures that the design is built on a solid, practical foundation rather than just visual appeal."
       },
       {
         "title": "2. User <highlight> Experience (UX)</highlight> ",
-        "description": "We focus on improving the user journey by simplifying navigation and organizing content clearly. This helps users reach their goals easily, enhancing satisfaction and increasing engagement and conversion rates."
+        "description": "We focus on the user's journey within the website or application, from the moment they enter until they achieve their goal. We ensure that the steps are clear and simple, minimizing complexity and simplifying interactions. The goal is for users to feel comfortable and confident, which enhances customer satisfaction and increases engagement and conversion rates."
       },
       {
         "title": "3. User <highlight> Interface (UI)</highlight>",
-        "description": "We design modern and attractive interfaces with attention to colors, typography, and visual elements. We ensure consistency and clarity to deliver a seamless and enjoyable interaction for users."
+        "description": "We design modern and attractive interfaces that combine aesthetics and simplicity, using harmonious colors, clear typography, and visual elements that support the brand identity. We pay attention to details such as icons, images, and micro-interactions to make the user experience more dynamic and engaging."
+
       },
       {
         "title": "4. <highlight>Responsive </highlight> Design",
-        "description": "We ensure the website is fully responsive and works efficiently across all devices and screen sizes, providing a consistent and smooth experience on desktops, tablets, and mobile devices."
+        "description": "We ensure that designs are responsive and perform efficiently across various devices and browsers, whether on smartphones, tablets, or large screens. This guarantees that users have an optimal experience wherever they are."
       },
       {
         "title": "5.Testing <highlight> & Improvement</highlight>",
-        "description": "We test the design thoroughly to ensure usability, speed, and performance. Based on feedback and testing results, we continuously refine and improve the design for the best outcome."
+        "description":"We conduct testing on the designs to ensure usability and fast interaction, then make continuous improvements based on user feedback and market needs. This process ensures that the design remains up-to-date and delivers the best results."
       },
       {
         "title": "6. Innovation <highlight> & Visual Experience</highlight>",
-        "description": "We add creative touches and modern visual elements to make the design unique and engaging, ensuring a memorable experience that reflects your brand identity."
+        "description": "We add creative touches such as micro-interactions and simple animations to give the project a unique character and make the user experience more enjoyable. Innovation here goes beyond visuals to include new ways of simplifying interaction and enhancing the value delivered to the user."
       }
     ]
   },
@@ -464,31 +465,31 @@
     "steps": [
     {
       "title": "1. <highlight>System</highlight> Strategy",
-      "description": "We start by analyzing the nature of your business and operational needs, whether small, medium, or large. We then develop a comprehensive plan to design an integrated business management system. This strategy ensures the system becomes a practical tool that helps you organize daily operations, improve efficiency, and reduce costs — while supporting strategic decision-making based on accurate data."
+      "description": "We begin by analyzing the nature of your business and operational needs, whether small, medium, or large, then develop a comprehensive plan to design an integrated business management system. This strategy ensures that the system becomes a practical tool to help you organize daily operations, improve efficiency, and reduce costs, while supporting strategic decision-making based on accurate data."
     },
     {
       "title": "2. <highlight>Operations</highlight> Management",
-      "description": "We provide advanced solutions for managing various aspects of your business, such as human resources, sales, inventory, and accounting. These systems enable operations to run with greater clarity and ease, reducing errors caused by manual work — freeing your team to focus on more important and strategic decisions."
+      "description": "We provide advanced solutions to manage various aspects of your business such as human resources, sales, inventory, and accounting. These systems make operations clearer and easier, reduce errors caused by manual work, and allow your team to focus on more important and creative tasks."
     },
     {
       "title": "3. <highlight>Technical</highlight> Development",
-      "description": "Business management systems are built using native programming languages and modern technologies, giving you full flexibility to customize the system according to your specific needs. We ensure the system is designed for continuous scalability to guarantee high performance and effectiveness, with the ability to add new modules in the future such as project management or customer service."
+      "description": "We build business management systems using native programming languages and modern technologies, giving you full flexibility to customize the system according to your specific needs. We ensure the code is clean and scalable to guarantee high performance and security, with the ability to add new modules in the future such as project management or customer service."
     },
     {
       "title": "4. Integration with <highlight>Other Systems</highlight>",
-      "description": "We connect the system to multiple services such as payment gateways, digital marketing tools, and data channels — making it part of an integrated digital ecosystem that supports business growth and increases operational efficiency. This integration allows you to manage everything from one place, providing a seamless experience for both employees and customers alike."
+      "description": "We integrate the system with various services such as payment systems, digital marketing tools, and databases, making it part of a complete digital ecosystem that supports your business growth and increases operational efficiency. This integration allows you to manage everything from one place and provides a seamless experience for both employees and customers."
     },
     {
       "title": "5. Analytics <highlight> And Reports</highlight>",
-      "description": "We provide advanced analytics tools and interactive dashboards that help you monitor performance, measure results, and make decisions based on real data. This feature gives you a comprehensive view of your business, helps you identify strengths and weaknesses, and plan for the future with greater confidence."
+      "description": "We provide advanced analytics tools and interactive dashboards that help you monitor performance, measure results, and make data-driven decisions. This feature gives you a comprehensive view of your business, helping you identify strengths and weaknesses and plan for the future with greater confidence."
     },
     {
       "title": "6. Testing <highlight> and Quality</highlight>",
-      "description": "Before launch, we conduct a comprehensive testing phase covering performance, security, and usability. We ensure the system operates efficiently across different devices and operating environments, addressing any issues or vulnerabilities before the official release — guaranteeing an optimal experience for users."
+      "description": "Before launching the system, we conduct a comprehensive testing phase that includes performance, security, and usability. We ensure the system operates efficiently across various devices and environments, addressing any issues or vulnerabilities before the official launch to guarantee an optimal user experience."
     },
     {
       "title": "7. Support <highlight> and Updates </highlight>",
-      "description": "We provide ongoing technical support and regular updates to keep the system aligned with the latest technologies. We also assist you in adding new modules or improvements based on market needs and business growth, ensuring the system remains an effective tool that serves your business over the long term."
+      "description": "We provide continuous technical support and regular updates to keep the system aligned with the latest technologies. We also help you add new modules or improvements based on market needs and the evolution of your business, ensuring the system remains an effective tool that supports your long-term success."
     }
   ]
   },
@@ -502,31 +503,31 @@
     "steps": [
     {
       "title": "1. <highlight> Support </highlight> Strategy",
-      "description": "We start by identifying your technical needs and establishing a comprehensive support plan. Our strategy ensures systems and applications run without interruption. It covers fault prioritization, response levels, and communication channels — with guarantees on response speed, resolution time, and minimizing any impact on your workflow."
+      "description": "We start by identifying your technical needs and creating a comprehensive support plan that ensures the continuous operation of systems and applications without interruption. This strategy includes defining issue priorities, response levels, and communication methods with your team to guarantee fast resolution and minimize any negative impact on workflow."
     },
     {
       "title": "2. <highlight>Preventive</highlight> Maintenance",
-      "description": "We don't wait for failures to happen. We conduct regular procedures to monitor system performance, update software, and perform security checks. This preventive maintenance helps avoid problems before they occur and ensures long-term service stability."
+      "description": "We do not wait for issues to occur; instead, we perform regular procedures to monitor system performance, update software, and conduct security checks. This preventive maintenance helps avoid problems before they happen and maintains long-term service stability."
     },
     {
       "title": "3. <highlight> Emergency </highlight> Problem Resolution",
-      "description": "We provide a specialized support team capable of handling various technical faults quickly and effectively, whether related to software, networks, or hardware. Our goal is to minimize downtime and ensure the system returns to operation as fast as possible through root-cause solutions that prevent recurrence."
+      "description": "We provide a specialized support team capable of handling various technical issues quickly and effectively, whether related to software, networks, or hardware. Our goal is to minimize downtime and ensure the system is restored as quickly as possible, while delivering root-cause solutions to prevent recurrence."
     },
     {
       "title": "4. <highlight>Continuous</highlight> Communication",
-      "description": "We offer multiple support channels including phone, email, and ticketing systems, allowing you to reach us whenever you need. We track every request closely until fully resolved, with periodic reports that reflect service levels and quality."
+      "description": "We offer multiple support channels such as phone, email, and ticketing systems, allowing you to reach us بسهولة at any time. We also closely track requests until they are fully resolved, with regular reports that highlight service quality and performance."
     },
     {
       "title": "5. Updates  <highlight>and Development</highlight>",
-      "description": "Our role goes beyond fixing problems — we also work on regularly updating systems and adding new improvements that keep pace with the latest technologies. This ensures your business stays aligned with market demands and adapts to your evolving needs."
+      "description": "Our role goes beyond problem-solving; we also continuously update systems and introduce improvements aligned with the latest technologies. This ensures your systems remain compatible with market requirements and adapt to your evolving needs."
     },
     {
       "title": "6. Training  <highlight>and Guidance</highlight>",
-      "description": "We provide training sessions and practical guidance for your team to help them use systems more efficiently and reduce common errors. This empowers your team to independently handle recurring challenges and reduces dependency on continuous technical support."
+      "description": "We provide training sessions and practical guidance for your team, helping them use systems more efficiently and reduce errors. This investment in knowledge enhances productivity and reduces the need for repeated technical support interventions."
     },
     {
       "title": "7. Quality Assurance  <highlight>and Security</highlight>",
-      "description": "We are committed to high standards in delivering technical support, with a strong focus on data protection and information confidentiality. This gives you full confidence in the continuity of your business without risk, and strengthens your company's credibility with clients and partners."
+      "description": "We are committed to high standards in delivering technical support, with a strong focus on data protection and information confidentiality. This gives you full confidence in the continuity of your business operations without risks and strengthens your company's credibility with clients and partners."
     }
   ]
   },

@@ -16,7 +16,7 @@ export default function Services() {
     const t = useTranslations("HomePage.whyUs")
     const commontT = useTranslations("common")
     const nums = Array.from({length: services.length}, (_,i)=> i < 10 ? `0${i+1}` : i+1 );
-    const [service, setService ] = useState<{id: number; image: string; service: string}>({image: services[0].image, id: 1, service: services[0].service})
+    const [service, setService ] = useState<{id: number; image: string; service: string}>(services[0])
     const router = useRouter()
 
   return (
@@ -28,7 +28,7 @@ export default function Services() {
       {services.map((item, index) => (
         <div
           className="cursor-pointer group"
-          onClick={() => setService(item)}
+          onMouseEnter={()=> setService(item)}
           key={item.id}
         >
           <span
@@ -70,7 +70,7 @@ export default function Services() {
           src={service.image}
           alt="service"
           fill
-          className="object-cover rounded-[34px] transition-all duration-300"
+          className="object-cover rounded-[34px] duration-300 ease-in-out transition-all "
         />
       )}
     </div>

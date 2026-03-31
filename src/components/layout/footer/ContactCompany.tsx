@@ -13,7 +13,7 @@ export default async function ContactCompany() {
         <div className="flex flex-col gap-4.75 text-white">
           <div className="flex gap-2 items-center">
             <MdPhone/>
-            <Link href={`tel:+2001069626440`} > (+20)0111816970 </Link>
+            <Link href={`tel:+966538603467`} > +966538603467 </Link>
           </div>
           <div className="flex gap-2 items-center">
             <HiOutlineEnvelope/>
